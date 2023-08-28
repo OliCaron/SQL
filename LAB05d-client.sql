@@ -1,0 +1,5 @@
+insert into LAB_CLIENT (NO_CLIENT,NOM_CLI,TEL_CLI,COURRIEL_CLI,NO_CLIENT_PARRAIN) values (NO_CLIENT_SEQ.nextval,'Louis Tremblay','4185557887','lt@moncourriel.com',null);
+insert into LAB_CLIENT (NO_CLIENT,NOM_CLI,TEL_CLI,COURRIEL_CLI,NO_CLIENT_PARRAIN) values (NO_CLIENT_SEQ.nextval,'Lucie Gamache','4185556582','luga23@hotmail.ch',15);
+insert into LAB_CLIENT (NO_CLIENT,NOM_CLI,TEL_CLI,COURRIEL_CLI,NO_CLIENT_PARRAIN) values (NO_CLIENT_SEQ.nextval,'Julie Simard','5804125456','julie@juliesimard.com',15);
+insert into LAB_CLIENT (NO_CLIENT,NOM_CLI,TEL_CLI,COURRIEL_CLI,NO_CLIENT_PARRAIN) values (NO_CLIENT_SEQ.nextval,'Jean Paré','5147894552','info@info.ca',20);
+insert into LAB_CLIENT (NO_CLIENT,NOM_CLI,TEL_CLI,COURRIEL_CLI,NO_CLIENT_PARRAIN) values (NO_CLIENT_SEQ.nextval,'Thomas voyer','5145213599','voyert@outlook.uk',25);
